@@ -1,7 +1,4 @@
-body {
-font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 40px;
-}
-
-h1 {
-color: #0072ce;
-}
+# Lab 01 - Control de Versiones con Git
+Proyecto del Laboratorio 01 del curso.
+## Autor
+Erick - Laboratorio 01
